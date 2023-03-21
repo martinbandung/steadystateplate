@@ -1,4 +1,3 @@
-# steadystateplate
-Temperature distribution in steady state plate
+# Steady-state temperature distribution in a plate
 
-Kode MATLAB untuk menyelesaikan persamaan distribusi temperatur 2 dimensi pada plat
+Temperature distribution in steady state plate
